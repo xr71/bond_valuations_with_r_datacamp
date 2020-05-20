@@ -23,3 +23,6 @@ Price vs Value:
 
 
 Time Value of Money:
+- we prefer \$1 today than \$1 tomorrow
+- we need a `r` value to entice us to receive the \$ in the future
+- the reverse logic of \$1 in the future is the `NPV` of \$ in the future, discounted by `r`
